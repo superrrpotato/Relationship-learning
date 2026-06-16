@@ -60,10 +60,12 @@ jupyter notebook
 
 2. Open the notebooks in the following order and run **all** cells in each:
 
-- Figure2+S1+S2.ipynb
-- Figure3.ipynb  
+- Figure2+S2+S3.ipynb
+- Figure3.ipynb (Without low-level neuron model due to restriction from Intel Loihi 2) 
 - Figure4.ipynb
-- Figure5.ipynb 
+- Figure5.ipynb
+- Figure6.ipynb
+- All other supplementary jupyter notebooks
 
 3. Each notebook generates intermediate results and visualizations.
 
